@@ -1,0 +1,82 @@
+::-webkit-scrollbar { 
+  display: none; 
+}
+ #chartdiv {
+      width: 80%;
+      height: 350px;
+      font-size: 11px;
+    }
+
+    .content-header {
+      padding: 4px .5rem;
+    }
+
+    .clear {
+      clear: both;
+    }
+
+    .boxallign {
+      margin-right: 0px;
+      margin-left: 15px;
+
+      max-width: 23%!important;
+    }
+
+    #chartdiv1 {
+      width: 85%;
+      height: 340px;
+      font-size: 11px;
+    }
+
+    #chartdiv2 {
+      width: 100%;
+      height: 350px;
+      font-size: 11px;
+    }
+    #chartdiv3 {
+      width: 100%;
+      height: 345px;
+      font-size: 11px;
+    }
+   
+     #piecharts{
+     width: 55%; 
+    height: 300px;
+     margin-top:-60px; 
+     margin-left:333px;
+    }
+
+    .heading {
+      font-family: font-awesome;
+      font-size: xx-large;
+      font-style: italic;
+    }
+
+    .sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.active {
+
+      background-color: #485869;
+    }
+
+    .side {
+      max-height: 420px;
+    }
+
+    .boxheight {
+      max-height: 380px;
+    }
+   #bubblechartfacility{
+      width: 90%;
+      height: 290px;
+    }
+    #bubblechart{
+      width: 90%;
+      height: 350px;
+    }
+
+    .bg-warning,
+    .bg-warning a,
+    .label-warning,
+    .label-warning a {
+      color: #fff !important;
+    }
+

@@ -1,12 +1,19 @@
 package com.hanuman.reports;
 
+import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HanumanSpringBootApplication {
+public class HanumanSpringBootApplication implements CommandLineRunner {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HanumanSpringBootApplication.class, args);
+	}
+
+	@Override
+	public void run(String... args) throws Exception {
+		// TODO Auto-generated method stub
+
 	}
 }
